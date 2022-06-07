@@ -1,4 +1,4 @@
-# bdcloner
+# bdcloner xDm
 
 
 * apt update && apt upgrade
@@ -15,9 +15,10 @@
 
 * apt install git
 
-*git clone
+* git clone
 https://github.com/xDm011/bdcloner/git
 
 * cd bdcloner
 
 * python multi-cracker.py
+
